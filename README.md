@@ -12,7 +12,6 @@ This project presents an interactive financial dashboard built using **Microsoft
 - 🌍 **Country-wise Sales Distribution** with a pie chart
 - 👥 **Sales by Segment** visualized in a horizontal bar chart
 - 🎯 **Interactive Filter** for Discount Type
-- 🎨 Custom Power BI Theme applied for color consistency and branding
 
 ---
 
