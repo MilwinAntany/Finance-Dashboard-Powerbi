@@ -21,7 +21,6 @@ This project presents an interactive financial dashboard built using **Microsoft
 | File Name | Description |
 |-----------|-------------|
 | `finance.pbix` | Main Power BI file with all visuals and data |
-| `Custom_Finance_Theme.json` | JSON theme file used to apply consistent colors |
 | `dashboard.png` | Screenshot image of the dashboard for preview |
 
 ---
@@ -38,8 +37,7 @@ This project presents an interactive financial dashboard built using **Microsoft
 ## 🧰 Tools Used
 
 - Power BI Desktop  
-- DAX (Data Analysis Expressions)  
-- JSON Theme Customization  
+- DAX (Data Analysis Expressions)    
 - Data Visualization & Storytelling Techniques
 
 ---
